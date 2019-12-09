@@ -1,0 +1,18 @@
+button {
+  border: none;
+  outline: none; }
+
+button:hover {
+  cursor: pointer;
+  outline: none; }
+
+button:active {
+  outline: none; }
+
+button:focus {
+  outline: none; }
+
+input {
+  border: none; }
+  input:focus {
+    outline: none; }

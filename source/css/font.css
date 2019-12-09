@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'Akrobat';
+  src: url('../fonts/Akrobat.ttf');
+  src: url('../fonts/Akrobat.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Arctikascript';
+    src: url('../fonts/Arctikascript.ttf');
+    src: url('../fonts/Arctikascript.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+    }
+
+@font-face {
+  font-family: 'Arial MT';
+  src: url('../fonts/ArialMT.ttf');
+  src: url('../fonts/ArialMT.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  }
+
+  @font-face {
+    font-family: 'Corbel';
+    src: url('../fonts/Corbel.ttf');
+    src: url('../fonts/Corbel.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+    }
+
+@font-face {
+  font-family: 'Tahoma';
+  src: url('../fonts/Tahoma.ttf');
+  src: url('../fonts/Tahoma.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  }
